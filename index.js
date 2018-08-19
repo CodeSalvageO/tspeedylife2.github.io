@@ -1,0 +1,1 @@
+alert("Welcome to our home page. This website is a place to share things and meet new people. Please remember these are STRANGERS. If you see anyone on the site breaking any of the rules (link located on this page) be sure to contact me at alexy0730@gmail.com using any of the email boxes located in Roxstrait or any other villages.")
